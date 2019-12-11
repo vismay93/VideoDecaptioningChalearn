@@ -28,7 +28,7 @@ update DATASET_PATH= ../Data/videos, savepath='../Output/stage1' and part ='trai
 During testing change the DATASET_PATH ='../Data/videos', savepath='../Output/stage1/val' and part = 'val'
 
 
-### STAGE2:
+#### STAGE2:
 
 step4: Train stage2 network by executing below file,
 ```
